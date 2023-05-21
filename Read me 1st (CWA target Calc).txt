@@ -1,0 +1,53 @@
+Guess what?
+Let assume you currently have a CWA of 67% as a second year student, and
+you are hoping to get CWA of 72%.
+
+The question is...
+What is the minimum score you need to get in each course to achieve your target?
+I guess you are assuming 75 plus.
+
+Well, A second year student with a cummulative credit of about 53
+and a current semester credit of about 18 would need 86.72% per course to make a CWA of 72%.
+
+Wow!!! You don't believe it right.
+
+Don't waste your time...
+Download the App below "CWA Target Calc.exe" and install it on you PC only.
+Check out the exact score you need to get your DREAM CWA...
+
+READ THIS TO USE APP !!!
+======================
+1. THIS APP WORKS LIKE YOUR MOMO PROMT [BLACK AND WHITE APP]
+2. IT WORKS ONLY ON **LAPTOPS** NOT ON PHONES
+3. DOWNLOAD AND SAVE THE NAME OF THE APP AS "CWA Target Calc.exe". Remember, that ".exe" is very important.
+4. Lunch the App to start using it. Enjoy... but read instructions.
+5. Contact +233547747895 on WhatsApp for any assistance.
+
+
+READ THE FOLLOWING ONLY IF YOU CARE...
+
+THE MATHEMATICS BEHIND THE COMPUTATIONS
+=========================================
+CWA TARGET = 72%
+CURRENT CWA = 67%
+CUMMULATIVE CREDITS = 53  (This does not include any semester with unpublished results)
+SEMESTER CREDITS = 18 (This refers to your current or awaiting semester results)
+
+Let assume that in every subject you got "t" percent.
+Then the equation becomes
+
+CWA TARGET=[(CUMMULATIVE CREDITS x CURRENT CWA) + (SEMESTER CREDITS x t)] / (CUMMULATIVE CREDITS + SEMESTER CREDITS)
+
+72 = (53x67 + 18t)/(53 + 18)
+t= [72(53 + 18)-(53x67)]/18
+t= 86.72%
+
+NB: The student is required to obtain 86.72% per cousre to achieve his/her target
+Your scores for each subject may vary therefore as you drop below 86.&2% for a course then you need to increase above
+86.72% in other course relative to the credit hours of the courses.
+
+DEDICATION
+THIS APPLICATION IS DEDICATED TO ALL KNUST STUDENTS WHO HAVE PUT IN MUCH EFFORTS IN THEIR
+STUDIES YET THEY CANNOT MAKE IT TO THEIR TARGET...IT NOT EASY.
+
+App Developed by Ogyam ye Berima...
